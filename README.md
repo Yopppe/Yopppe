@@ -1,1 +1,2 @@
-- Interested in game development.
+- Started self teaching game development (24-may-2024)
+- Gaming since 5yo, curious about development since 15 yo.
